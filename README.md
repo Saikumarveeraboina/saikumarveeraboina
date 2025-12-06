@@ -21,14 +21,10 @@ I love solving real-world problems with clean and efficient code. My passion for
 
 ## 🚀 Tech Stack
 
-**Frontend:**  
-React • Redux • Tailwind • HTML • CSS • JS  
-
-**Backend:**  
-Node • Express • JWT • MongoDB  
-
-**Tools:**  
-Git • Postman • VSCode  
+💻 Frontend: HTML5, CSS3, JavaScript, React.js, Redux, Tailwind CSS, Bootstrap
+🛠️ Backend: Node.js, Express.js, MongoDB, MySql
+☁️ Tools & Platforms: Postman, Git, GitHub, Render, Netlify, Vercel
+📦 Others: REST APIs, JWT Auth, Firebase Auth, Google APIs.
 
 ---
 
