@@ -14,15 +14,10 @@
 
 ## 👨‍💻 About Me
 
-I'm **Saiii**, a passionate MERN Stack developer who loves building  
-scalable and real-world web applications.
 
-- 🔭 I’m currently working on **React + Node projects**
-- 🌱 I’m learning **Next.js & System Design**
-- 💬 Ask me about **React, Node, MongoDB**
-- ⚡ Fun fact: **I break code to fix it 😆**
+I’m Saikumar Veeraboina , a self-motivated and highly focused Full Stack Web Developer with hands-on experience in building responsive and scalable web applications using the MERN stack.
 
----
+I love solving real-world problems with clean and efficient code. My passion for tech has led me to create multiple full-stack projects from scratch, always aiming for quality UI/UX, performance, and user satisfaction.
 
 ## 🚀 Tech Stack
 
