@@ -66,8 +66,6 @@ I love solving real-world problems with clean and efficient code. My passion for
   - 🛒 **Resume Builder with AI** – Simple React js Application using Gemini API
 ---
 
-
-
 ## 🔗 Let's Connect!
 
 - 🌐 **Gmail:** veeraboinasai123@gmail.com
