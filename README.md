@@ -37,7 +37,9 @@ I love solving real-world problems with clean and efficient code. My passion for
 - Node.js  
 - Express.js  
 - MongoDB  
-- MySql 
+- MySql
+- Python
+- fastAPI
 
 ### ☁️ Tools & Platforms  
 - Postman  
