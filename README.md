@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack MERN Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="//" target="_blank">
+  <a href="https://portfolio-saikumar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/veeraboina-saikumar/" target="_blank">
